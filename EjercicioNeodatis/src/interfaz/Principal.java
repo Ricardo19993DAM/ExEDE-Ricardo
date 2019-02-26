@@ -1,3 +1,6 @@
+/**
+ * Documentación ExamenEDE 2ev
+ */
 package interfaz;
 
 import java.awt.EventQueue;
@@ -15,6 +18,11 @@ import javax.swing.border.LineBorder;
 import javax.swing.SwingConstants;
 
 @SuppressWarnings("serial")
+/**
+ * 
+ * @author Ricardo Peinado Lastra
+ * @version Version 1, 2019
+ */
 public class Principal extends JFrame {
 	private JPanel contentPane;
 
@@ -37,6 +45,7 @@ public class Principal extends JFrame {
 	/**
 	 * Create the frame.
 	 */
+	
 	public Principal() {
 		setTitle("Practica NEODATIS");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
